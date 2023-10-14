@@ -24,6 +24,10 @@ run in the terminal to this project:
 ### `npm i axios react-router-dom`
 ### `npm run dev`
 
+***Have the extension `ES7+ React/Redux/React-Native snippets` and time rafce inside the componet that will apear in the screen only need select that will great the component easier to use will help a lot in the creation of the components of this project.***
+
+***And updates in real time to see the change that you'll do use the link `<script src="https://livejs.com/live.js"></script>` in you index.html below the meta and link.***
+
 # Project from Matheus Battisti - Hora de Codar - "Time to Code" - Youtube (React Course)
 
 ## Description
