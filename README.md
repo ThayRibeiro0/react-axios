@@ -48,4 +48,4 @@ Learning how works the React library.
 The project use the node_modules, javascript.jsx and javascript.js, react, html and css to file the project. 
 
 ## Referência
-- [Youtube] - PROJETO DE REACT E SASS PARA O SEU PORTFÓLIO - INTEGRAÇÃO DE REACT COM SASS | Matheus Battisti - Hora de Codar - (https://www.youtube.com/watch?v=5h4vMtBlQQU)
+- [Youtube] - REACT.JS E AXIOS - CONSUMIR DADOS DE API COM REACT E AXIOS | Matheus Battisti - Hora de Codar - (https://www.youtube.com/watch?v=NbhoeLj6lBs&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=45)
