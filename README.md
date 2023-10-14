@@ -11,12 +11,13 @@ Currently, two official plugins are available:
 cd movies_lib
 
 ### Installation
-I Create the project with `npm create vite@latest` and into in the project using `cd react-axios` and below have the link of the things used in the project or that you can use:
+I Create the project with `npm create vite@latest` and into in the project using `cd react-axios` and below have the link of the things that I used in this project or that you can use:
 
 -  AXIOS DOCS: https://axios-http.com/docs/intro
 -  REACT ROUTER DOCS: https://reactrouter.com/en/main
 -  REACT-ICONS: https://react-icons.github.io/react-icons/ - necessario run `npm install react-icons` to work in the terminal
 - API {JSON}Placeholder: https://jsonplaceholder.typicode.com/
+- GOOGLE FONTS: https://fonts.google.com/
 
 run in the terminal to this project:
 ### `npm install`
